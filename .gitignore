@@ -1,1 +1,4 @@
 *.csv
+.gitignore
+.gitattributes
+_py_cache_
