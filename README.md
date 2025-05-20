@@ -36,11 +36,9 @@ This repository contains a Python-based WordCloud wrapper that creates visually 
 
 ## Examples
 
-Here are some examples of word clouds generated using this tool:
+Here is an example generated using this tool:
 
 ![Example 1](output/wordcloud_DCP_blended.png)
-![Example 2](output/wordcloud_DCP_blended_v2.png)
-
 
 ## Acknowledgments
 
