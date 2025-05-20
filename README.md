@@ -4,7 +4,7 @@ This repository contains a Python-based WordCloud wrapper that creates visually 
 
 ## Features
 
-- Generate word clouds from text files or strings.
+- Generate word clouds from csv file string columns 
 - Customize font, color schemes, and shapes.
 - Save word clouds as image files.
 - Supports stopword filtering for cleaner results.
